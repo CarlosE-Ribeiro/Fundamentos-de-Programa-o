@@ -1,0 +1,15 @@
+Nome: carlos
+Pontuação: 1258
+
+Nome: luis
+Pontuação: 0
+
+Nome: camila
+Pontuação: 0
+
+Nome: felipe
+Pontuação: 1478
+
+Nome: joao
+Pontuação: 9632
+
