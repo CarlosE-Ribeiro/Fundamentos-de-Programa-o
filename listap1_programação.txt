@@ -1,0 +1,55 @@
+1) Sabendo-se que 200 quilowatts de energia custa um quarto do salário mínimo, faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts gasta por uma residência e mostre:
+a) O valor em reais de cada quilowatt;
+b) O valor em reais a ser pago pelos quilowatts gasto;
+c) O novo valor a ser pago por essa residência com um desconto de 12%;
+
+2) Fazer um programa para ler as coordenadas x e y de dois pontos e calcular a distância entre os dois pontos no plano, através da seguinte fórmula:
+
+d=(x2−x1)2+(y2−y1)2−−−−−−−−−−−−−−−−−−−√
+3) Faça um programa que tenha como entrada: o número de horas, minutos e segundos atuais, informe quantos segundos faltam para chegar terminar o dia.
+
+4)Faça um programa que receba 3 idades distintas e mostre: a idade da pessoa mais velha; a idade da pessoa mais nova e a média das 3 idades . O programa deve considerar e informar o caso de 2 ou 3 pessoas terem a mesma idade.
+
+5) Faça um programa que receba 2 números referentes ao numerador e denominador de uma fração e informe se é uma fração própria, imprópria, ou aparente
+
+6) Um professor maluco da UTFPR avalia seus alunos da seguinte maneira:
+
+3 provas (com peso 20 cada)
+10 pontos para menores durante o semestre
+1 projeto de um jogo com peso 30
+
+A média regular do aluno será dada pela soma das notas das 3 provas, nos projetos menores e do projeto do game. O aluno que atingir a nota igual ou superior a 60 estará aprovado, caso contrário, o aluno deverá realizar um exame onde a nota mínima necessária será dada pela fórmula:
+
+NotaMinima = 120 – Média regular
+
+O aluno aprovado via exame terá média final igual a 60 registrado no sistema.
+
+Faça um programa que receba a nota das 3 provas, 1 nota dos projetos menores e 1 nota do projeto do game (todas as notas entre 0 e 100) e informe se o aluno está aprovado ou terá que realizar o exame.
+Em caso de exame o sistema deverá solicitar a nota do exame e informar se o aluno está aprovado ou reprovado e qual sua nota final (com uma casa decimal).
+
+7) Considerando uma aplicação de renda fixa, faça um programa que receba o capital investido, a taxa (em %) e a quantidade de meses. O programa deverá retornar o montante final considerando o desconto do imposto de renda segundo regras abaixo:
+
+22,5% - prazo inferior a 6 meses
+20% - de 6 a 12 meses
+17,5% - de 12 a 24 meses
+15% - igual ou superior a 24 meses
+
+Obs: O imposto é calculado apenas sobre o lucro da aplicação.
+
+8) Crie um programa que, ao receber três números, verifique se podem ser lados de um triângulo e nesse caso mostre se o triângulo é equilátero, isosceles ou escaleno. Caso seja um triângulo retângulo, o programa deve também informar.
+
+9) Faça um programa que receba o dia, mês e ano de uma data e informe se é uma data válida ou não
+
+10) Desenvolva um programa que receba um valor de 1 a 99 e exiba o valor por extenso
+Ex:
+Digite um Número: 74
+Valor por extenso: setenta e quatro
+
+11) Desenvolva um algoritmo que receba vários números no intervalo fechado de 1 a 1000. Ao receber um valor fora da faixa, o programa deverá exibir a soma dos números pares e o produto dos números ímpares e finalizar.
+Obs: O valor fora da faixa utilizado para sair não deverá entrar na conta da soma nem do produto.
+
+12) Técnicos analisam a perda da massa do Xenônio-135 e descobriram que o tempo de meia vida desse radioisótopo é de 9h. Crie um algoritmo para receber a massa inicial em gramas e retorne o tempo necessário para que a massa deste material seja menor que 1 grama. Caso o tempo exceda 24h a resposta deve ser dada em dias (Ex.: 2 dias e 6 horas).
+Obs.: O algoritmo deve calcular o tempo para várias massas, finalizando ao receber uma massa igual a zero ou negativa.
+
+13) Faça um programa que verifique se um número dado via teclado é primo.
+Dica: para saber se um número n é primo, basta dividir por cada um dos números entre 2 e raiz quadrada de n; se o resto for diferente de zero pra todos ele é primo.

@@ -1,0 +1,9 @@
+1) Faça uma função recursiva que permita somar os elementos de um vetor de inteiros.
+
+2) Crie uma função que aloque dinamicamente e retorne um vetor de inteiros com o tamanho passado por parâmetros.
+
+3) Faça um programa que leia um arquivo de texto contendo uma sequencia de números, o primeiro valor representa o tamanho da sequencia (quantidade de elementos) e salve em um vetor alocado dinamicamente e retorne esse vetor.
+
+4) Usando as funções anteriores, crie um programa que leia um vetor de dados em um arquivos, calcule a soma desse vetor utilizando a função recursiva e escreva a resposta no final arquivo original adicionando uma nova linha contendo "A soma do vetor é <valor>"
+
+5) Organize suas funções criando sua própria biblioteca em arquivos separados: um com os cabeçalhos e include guards (.h) e outro com as implementações das funções (.c). o arquivo main.c que contém a função main deve importar e utilizar as funções da biblioteca.
